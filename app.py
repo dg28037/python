@@ -1,2 +1,1 @@
-
-print("Hello Deepak")
+print("hello , India")
