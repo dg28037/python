@@ -1,1 +1,1 @@
-print("Deepak Garg")
+print("Deepak")
